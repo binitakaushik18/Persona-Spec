@@ -1,2 +1,2 @@
 # Persona-Spec
-The yaml document will provide documentation for calling the API of Persona Store.
+The yaml document provides details for calling the API of Persona Store.
